@@ -11,6 +11,7 @@ function App() {
         </p>
         <ul> 
           <li> Kshitij Jain </li>
+          <li> Brian Wang </li>
         </ul>
       </header>
     </div>
