@@ -9,9 +9,10 @@ function App() {
         <p>
           TAMID <code>Tech</code> Team roster.
         </p>
-        <ul> 
+        <ul>
           <li> Kshitij Jain </li>
-          <li> Brian Wang </li> 
+          <li> Brian Wang </li>
+          <li> Jason Sinning </li>
         </ul>
       </header>
     </div>
